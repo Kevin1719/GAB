@@ -144,7 +144,7 @@
                 }
                 if(strlen((string)self::$amount)>=4){
                     while(self::$amount<5000){
-                        echo "Veuillez entrer un montant super à 5 000Ar\n";
+                        echo "Veuillez entrer un montant superieur à 5 000Ar\n";
                         self::$amount = (float) readline("Veuillez entrer le montant que vous souhaitez retirer: ");
                     }
                     if(self::$amount>=5000){
