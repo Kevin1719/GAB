@@ -1,7 +1,7 @@
 <?php
 /**
  * Class Gab
- * Petit algorithme permettant s'imiter le comportement des GAB
+ * Petit algorithme permettant d'imiter le comportement des GAB
  */
     class Gab{
         /**
